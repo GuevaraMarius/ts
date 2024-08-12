@@ -33,3 +33,10 @@
    - **Key Topics**:
      - Defining and using enums
      - Practical use cases for enums
+
+### 6. **Tuples**
+   - **Description**:
+     Tuples allow you to define an array with a fixed number of elements, where each element can have a different type. They are useful for grouping related values, especially when the values are of different types.
+   - **Key Topics**:
+     - Defining and using tuples
+     - Accessing and manipulating tuple elements
