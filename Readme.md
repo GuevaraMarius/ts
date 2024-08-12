@@ -26,3 +26,10 @@
    - **Key Topics**:
      - Method decorators
      - Applying and using decorators in classes
+
+### 5. **Enums**
+   - **Description**:
+     Enums in TypeScript are a way to define a set of named constants. They make your code more readable and maintainable by providing meaningful names for constant values.
+   - **Key Topics**:
+     - Defining and using enums
+     - Practical use cases for enums
