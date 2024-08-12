@@ -19,3 +19,10 @@
    - **Key Topics**:
      - Creating generic functions and classes
      - Using generics with different types
+     
+### 4. **Decorators**
+   - **Description**:
+     Decorators are special functions that can modify the behavior of classes, methods, or properties. 
+   - **Key Topics**:
+     - Method decorators
+     - Applying and using decorators in classes
