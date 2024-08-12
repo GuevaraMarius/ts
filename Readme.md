@@ -12,3 +12,10 @@
    - **Key Topics**:
      - Defining and implementing interfaces
      - Using interfaces to type-check objects
+
+### 3. **Generics**
+   - **Description**:
+     Generics provide a way to create reusable components that work with multiple data types. They allow you to write flexible and reusable code while maintaining type safety.
+   - **Key Topics**:
+     - Creating generic functions and classes
+     - Using generics with different types
